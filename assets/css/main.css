@@ -165,3 +165,9 @@ td:nth-of-type(1){
     padding: 1.8em;
 }
 }
+.main-image-qar{
+float: left;
+  margin-right: 1em;
+  height: 285px;
+  width: 410px;
+}
