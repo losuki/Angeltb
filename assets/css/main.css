@@ -171,12 +171,13 @@ float: left;
   height: 285px;
   width: 410px;
 }
-.posicion{
-position: relative;
+.posiciona{
+
 width: ;
-height:40px;
-top:98px ;
+height:1px;
+position: fixed;
+top:68px ;
 bottom: ;
-right: ;
-left:78px;
+right:;
+left:108px;
 }
